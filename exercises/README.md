@@ -1,16 +1,19 @@
 # List of exercises
 
-## Exercise one
+## Ex1
 Read four integers and show the sum
 
-## Exercise two
+## Ex2
 Read three numbers and calculate the average value
 
-## Exercise three
+## Ex3
 Read the employee's salary and print it's new salary (with 25% increase)
 
-## Exercise four
+## Ex4
 Read the employee's salary and the increase value then print it's new salary
 
-## Exercise five
+## Ex5
 Cylinder volume given its height and radius
+
+## Ex6
+Given int x and int y, print x^y
