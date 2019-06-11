@@ -1,4 +1,4 @@
-(ns exercise-one)
+(ns ex1)
 
 (defn read-integer []
     (let [readvalue (Integer/parseInt (read-line))] readvalue))

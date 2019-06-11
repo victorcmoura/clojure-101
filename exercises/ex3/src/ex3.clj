@@ -1,4 +1,4 @@
-(ns exercise-three)
+(ns ex3)
 
 (defn read-float[]
     (let [readnumber (Double/parseDouble (read-line))] readnumber))
