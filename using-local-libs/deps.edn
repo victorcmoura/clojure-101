@@ -1,0 +1,3 @@
+{:deps
+    ; Edit the path with your machines configs
+    {time-lib {:local/root "/home/victorcmoura/Documentos/clojure-101/using-local-libs/time-lib"}}}
