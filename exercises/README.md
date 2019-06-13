@@ -1,4 +1,4 @@
-# Beginner exercises
+# Beginner Exercises
 
 ## Ex1
 Read four integers and show the sum
@@ -18,7 +18,7 @@ Cylinder volume given its height and radius
 ## Ex6
 Given int x and int y, print x^y
 
-# Control flow exercises
+# Flow Control Exercises
 
 ## Ex7
 Read n, read n values and print the sum
