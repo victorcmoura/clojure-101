@@ -22,3 +22,6 @@ Given int x and int y, print x^y
 
 ## Ex7
 Read n, read n values and print the sum
+
+## Ex8
+Read n, read n values and print the average
