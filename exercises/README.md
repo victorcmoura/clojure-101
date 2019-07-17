@@ -25,3 +25,6 @@ Read n, read n values and print the sum
 
 ## Ex8
 Read n, read n values and print the average
+
+## Ex9
+Insert string, reverse it and print
